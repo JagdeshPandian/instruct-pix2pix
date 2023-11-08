@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import seaborn
 from pathlib import Path
 
-sys.path.append("./")
+sys.path.append("../../../../../")
 
 from clip_similarity import ClipSimilarity
 from edit_dataset import EditDatasetEval
